@@ -1,1 +1,1 @@
-# learning-springboot-ms-spring-cloud-config-server
+# Learning ms-spring-cloud-config-server
